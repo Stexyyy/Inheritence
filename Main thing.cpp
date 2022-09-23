@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-
+//just testing things out lol
 class Triangle{
     public:
     	void triangle(){
